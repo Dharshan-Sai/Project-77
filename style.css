@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+#firstp {
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+#secondp {
+    font-weight: lighter;
+    font-size: x-large;
+}
